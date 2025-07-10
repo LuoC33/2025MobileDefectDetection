@@ -1,0 +1,70 @@
+# 忽略构建目录
+build/
+
+# 忽略 Qt Creator 相关的配置文件
+*.user
+
+# 忽略编译生成的文件
+*.o
+*.obj
+*.moc
+*.rsp
+*.pch
+*.idb
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.dll
+*.so
+*.dylib
+*.a
+*.out
+*.exe
+*.app
+*.app/Contents
+*.app/Contents/MacOS
+*.app/Contents/PlugIns
+*.app/Contents/Resources
+
+# 忽略 qmake 生成的文件
+Makefile
+Makefile.Debug
+Makefile.Release
+*.pro.user
+*.pro.user.*
+*.pri
+*.prl
+
+# 忽略 CMake 相关的生成文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+Testing/
+*.cmake
+
+# 忽略日志和临时文件
+*.log
+*.tmp
+*.swp
+*.swo
+
+# 忽略 IDE 或编辑器相关文件
+.vscode/
+*.sln
+*.vcxproj*
+*.sdf
+*.ipch
+*.ncb
+*.opensdf
+
+# 忽略系统文件
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Desktop.ini
+
+# 忽略其他可能的临时文件
+*.autosave

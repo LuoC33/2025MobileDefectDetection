@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoginPage.qml</file>
+        <file>MainPage.qml</file>
+        <file>images/img-01.png</file>
+        <file>CustomTitleBar.qml</file>
+        <file>TopToolBar.qml</file>
+        <file>images/about.png</file>
+        <file>images/about_active.png</file>
+        <file>images/help.png</file>
+        <file>images/help_active.png</file>
+        <file>images/set.png</file>
+        <file>images/set_active.png</file>
+        <file>images/charts.png</file>
+        <file>images/charts_active.png</file>
+        <file>DataPage.qml</file>
+        <file>ChartsPage.qml</file>
+        <file>HelpPage.qml</file>
+        <file>AboutPage.qml</file>
+        <file>LineChart.qml</file>
+        <file>RtspPlayer.qml</file>
+    </qresource>
+</RCC>
